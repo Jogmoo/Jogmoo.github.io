@@ -4,4 +4,4 @@
 
 * Finished task 1
 * Installed Markdown All in One
-* Working on Task 2
+* Finished Task 2
