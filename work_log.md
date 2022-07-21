@@ -2,4 +2,6 @@
 
 ## July 20th
 
-* Finish task 1
+* Finished task 1
+* Installed Markdown All in One
+* Working on Task 2
