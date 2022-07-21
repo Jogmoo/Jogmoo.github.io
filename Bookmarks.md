@@ -6,5 +6,5 @@
 
 ## VIM related
 
-* [wikia tips](http://vim.wikia.com/wiki/Main_Page) for featured tips
+* [VIM Fandom](http://vim.wikia.com/wiki/Main_Page) for featured tips
 * [A Byte of Vim](http://www.swaroopch.com/notes/Vim), a wonderful book for beginners
